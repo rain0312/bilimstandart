@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bilimstandart/static/css/main.83b5dced.chunk.css",
+    "main.js": "/bilimstandart/static/js/main.336293cb.chunk.js",
+    "main.js.map": "/bilimstandart/static/js/main.336293cb.chunk.js.map",
+    "runtime-main.js": "/bilimstandart/static/js/runtime-main.512b38ae.js",
+    "runtime-main.js.map": "/bilimstandart/static/js/runtime-main.512b38ae.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/bilimstandart/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/bilimstandart/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/bilimstandart/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/bilimstandart/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/bilimstandart/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.512b38ae.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.336293cb.chunk.js"
+  ]
+}
